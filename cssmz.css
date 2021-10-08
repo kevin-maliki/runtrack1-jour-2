@@ -1,0 +1,64 @@
+#header
+{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+#bloc1
+{
+display: flex;
+justify-content: space-around;
+
+
+
+
+}
+
+#bloc2
+{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.nom:nth-child(1)
+{
+    text-align:center ;
+    text-decoration: none;
+    
+    
+}
+   
+}
+
+.element1
+{
+    height: 250px;
+    width: 600px;
+}
+
+.element2
+{
+    height: 250px;
+    width: 600px;
+}
+
+.element3
+{
+    width: 600px;
+}
+
+.element4
+{
+    width: 600px;
+}
+.classe
+{display: flex;
+justify-content: space-around;
+}
+
+h1
+{
+    text-decoration: underline;
+}
+
